@@ -9,12 +9,12 @@ The **Army Cyber Institute Capture The Flag CyberStakes 2020** ran for 10 days f
 
 There were a total of [73 challenges](https://cyberstakes.acictf.com/problems) broken down into 7 categories. A CTF with categories is know as _Jepardy Style_ after the US television quiz show. No requirement to answer with questions, just that there are different categories:
 
-* Tutorial
-* Miscellaneous
-* Web Security
-* Cryptography
-* Forensics
-* Reverse Engineering
-* Binary Exploitation
+* Tutorial              (6 challenges)
+* Miscellaneous         (12 challenges)
+* Web Security          (11 challenges)
+* Cryptography          (7 challenges)
+* Forensics             (12 challenges)
+* Reverse Engineering   (11 challenges)
+* Binary Exploitation   (11 challenges)
 
-The CTF was put back up after the competition in training mode.
+Challenges were not all visible at first but became reveild as the Tutorial was completed and then eaiser challenges reveiled harder challenges in each category upon completion. The CTF was put back up after the competition in training mode.
