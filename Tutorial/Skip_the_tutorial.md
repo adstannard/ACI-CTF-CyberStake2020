@@ -11,6 +11,8 @@ What? You didn't think we'd just give you the flag, did you?\
 Or have we?\
 If you can't get this now, the hints for 'Out of Site (Web Security)' are applicable here as well. That problem unlocks once you finish the tutorial.
 
+
+Steps:
 The first hint `Alright here's the flag:` suggests that the flag is in the web page but hidden.I used a right click in the browser (Safari on macos) and choose _Inspect Element_. The _Web Inspector_ window open on the _Elements_ tab shows the flag.
 
 Flag: <!-- ACI{sudo_unlock_aacs4} -->
