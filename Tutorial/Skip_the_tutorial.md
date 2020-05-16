@@ -2,7 +2,7 @@
 
 Points: 0
 
-Solve:
+Solve:\
 Are you feeling impatient and just want to dive right in? Solving this problem will allow you to skip the tutorial and start working on the individual categories. If you want to go back and work through the tutorial later, it will still be there.
 
 Hints:
