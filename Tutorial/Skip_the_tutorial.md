@@ -8,9 +8,17 @@ Are you feeling impatient and just want to dive right in? Solving this problem w
 Hints:
 
 *`Alright here's the flag:`
+
+
 *`What? You didn't think we'd just give you the flag, did you?`
+
+
 *`Or have we?`
+
+
 *`If you can't get this now, the hints for 'Out of Site (Web Security)' are applicable here as well. That problem unlocks once you finish the tutorial.`
+
+
 
 This
 Isn't 
