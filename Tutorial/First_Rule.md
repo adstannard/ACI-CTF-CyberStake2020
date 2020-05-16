@@ -8,7 +8,7 @@ In light of the current situation, we feel it is important to talk about CTF bes
 Hints:\
 Please stay safe and practice good physical and [cyber](https://www.arcyber.army.mil/Info/Fact-Sheets/Fact-Sheet-View-Page/Article/1425566/cybersecurity-fact-sheet-10-cybersecurity-tips/) hygiene.
 
-Steps:
+Steps:\
 Copy and paste!
 
 Flag: <!-- ACI{this_is_a_flag} -->
