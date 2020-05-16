@@ -1,5 +1,5 @@
 # ACI-CTF-CyberStake2020
-## Army Cyber Institute Capture The Flag CyberStakes 2020 Write up
+### Army Cyber Institute Capture The Flag CyberStakes 2020 Write up
 
 This was my first Capture The Flag (CTF) event and therefore my first CTF write up. A key aim of taking part in the [ACI CTF](https://cyberstakes.acictf.com/news) was to learn something new and therefore I'm creating the writ-ups to consolidate my learning following the [Feynman Technique](https://mattyford.com/blog/2014/1/23/the-feynman-technique-model) of recapping and summarising what I have learnt. The aim is to expain the challenge solutions as though they are for someone else.
 
