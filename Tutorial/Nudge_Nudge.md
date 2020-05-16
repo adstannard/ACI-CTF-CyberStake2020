@@ -13,4 +13,4 @@ Your search engine of choice is also another great resource.\
 Steps:\
 Copy and paste!
 
-Flag: <!-- ACI{this_is_a_flag} -->
+Flag: <!-- ACI{are_you_flagging_already} -->
