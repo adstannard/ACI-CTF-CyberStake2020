@@ -11,7 +11,7 @@ There were a total of [73 challenges](https://cyberstakes.acictf.com/problems) b
 * [Miscellaneous](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Miscellaneous)         (12 challenges)
 * [Web Security](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Web_Security)          (11 challenges)
 * [Cryptography](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Cryptography)          (7 challenges)
-* Forensics             (12 challenges)
+* [Forensics](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Forensics)             (12 challenges)
 * Reverse Engineering   (11 challenges)
 * Binary Exploitation   (11 challenges)
 
