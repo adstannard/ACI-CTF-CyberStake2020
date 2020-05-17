@@ -1,6 +1,6 @@
 # More Out of Site
 
-Points: 5
+Points: 10
 
 Solve:
 Well that was embarrassing... Who knew there was more to a web site then what the browser showed? Not to worry, we're back with a new and improved Javascript version! `http://challenge.acictf.com:26425`
