@@ -22,4 +22,8 @@ Steps:
 8. Get out `ACI{fast_`
 9. Then `I{fast_dbg}`
 
+Notes:
+
+[GDB x command](https://visualgdb.com/gdbreference/commands/x)
+
 Flag: <!-- ACI{fast_dbg}  -->
