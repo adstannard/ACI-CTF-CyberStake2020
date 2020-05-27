@@ -26,6 +26,6 @@ When doing reverse engineering of x86 and x86-64 programs, Intel's [instruction 
 
 Steps:
 
+Found flag in hex editor so need to go back and use the tools and learn about Reverse Engineering.
 
-
-Flag: <!-- ACI{Something_witty_7e508cf0} -->
+Flag: <!-- ACI{a_byte_at_a_time} -->
