@@ -19,7 +19,7 @@ Your code for encoding/decoding will probably be very similar for 4 out of 6 enc
 
 Steps:
 
-Python code to convert the input and output
+[Python code to convert](https://github.com/adstannard/ACI-CTF-CyberStake2020/blob/master/Miscellaneous/starter_code-3.py) the input and output
 
 Notes:
 
