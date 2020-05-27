@@ -24,6 +24,7 @@ Steps:
 
 Notes:
 
+{QEMU Documentation](https://www.qemu.org/docs/master/system/index.html)
 [GDB x command](https://visualgdb.com/gdbreference/commands/x)
 
 Flag: <!-- ACI{fast_dbg}  -->
