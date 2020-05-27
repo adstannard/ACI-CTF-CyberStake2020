@@ -12,7 +12,7 @@ There were a total of [73 challenges](https://cyberstakes.acictf.com/problems) b
 * [Web Security](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Web_Security)          (11 challenges)
 * [Cryptography](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Cryptography)          (7 challenges)
 * [Forensics](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Forensics)             (12 challenges)
-* Reverse Engineering   (11 challenges)
+* [Reverse Engineering](https://github.com/adstannard/ACI-CTF-CyberStake2020/tree/master/Reverse_Engineering)   (11 challenges)
 * Binary Exploitation   (11 challenges)
 
 Challenges were not all visible at first but became reveild as the Tutorial was completed and then eaiser challenges reveiled harder challenges in each category upon completion. The CTF was put back up after the competition in training mode. 3 challenges have been removed in training mode due to resource requirements.
