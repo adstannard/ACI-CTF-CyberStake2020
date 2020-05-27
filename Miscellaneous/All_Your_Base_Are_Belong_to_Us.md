@@ -3,7 +3,7 @@
 Points: 50
 
 Solve:
-In honor of 30 years of terrible translations, we figured we'd give you a try at a series of (easier) translation problems. All you have to do is to translate bases by connecting to challenge.acictf.com:63596. In case you're new to network programs, we even have some Python [starter code](https://challenge.acictf.com/static/0b4faa5ee6ef62565c84675e6bf2a867/starter_code.py) you can use.
+In honor of 30 years of terrible translations, we figured we'd give you a try at a series of (easier) translation problems. All you have to do is to translate bases by connecting to [challenge.acictf.com:63596](challenge.acictf.com:63596). In case you're new to network programs, we even have some Python [starter code](https://challenge.acictf.com/static/0b4faa5ee6ef62565c84675e6bf2a867/starter_code.py) you can use.
 
 
 Hint:
