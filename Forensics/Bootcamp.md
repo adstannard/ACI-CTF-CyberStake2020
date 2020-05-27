@@ -6,14 +6,13 @@ We found an old floppy-drive laying around and think that there may be a flag hi
 
 Hint:
 
-It looks like file floppy.img identifies it as a "DOS/MBR Boot Record"...
+It looks like `file floppy.img` identifies it as a "DOS/MBR Boot Record"...
 What happens if you try booting the image?
 You probably don't have a real floppy drive that you can use, but what about a 'virtual' one?
-qemu-system-i386 floppy.img is our favorite means of 'booting' floppies, but 'Virtual Box' and 'bochs' are other alternatives (and they are all free).
+`qemu-system-i386 floppy.img` is our favorite means of 'booting' floppies, but 'Virtual Box' and 'bochs' are other alternatives (and they are all free).
 Steps:
 
-The link shows the wikipedia page of file signatures or Magic Bytes / magic numbers. 
-I opened the file in a hex editor _0xED 2_ on macos and saw the file started with "PK". This is a zip file so I renamed the file with .zip
-Opening the zip reveals a text file with the flag.
+First ran the floppy image in a MS-DOS Virtual Machine on Parallels. Also tried with Qemu for practice once running Kali linux.
+Booting the image releaves the flag.
 
 Flag: <!-- ACI{BoOt_MaGiC}  -->
