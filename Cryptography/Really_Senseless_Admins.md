@@ -17,6 +17,6 @@ We found a few notes on the admin's desk. One note just had the URL of an online
 
 Steps:
 
+Plug in p, q and e then add the ciphertext to get plaintext. onvert to hex and then to ascii.
 
-
-Flag: <!-- ACI{Something_witty_7e508cf0} -->
+Flag: <!-- ACI{Pr1m3s_T!M3z_30b53dcf} -->
