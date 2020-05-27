@@ -10,6 +10,8 @@ It looks like `file floppy.img` identifies it as a "DOS/MBR Boot Record"...
 What happens if you try booting the image?
 You probably don't have a real floppy drive that you can use, but what about a 'virtual' one?
 `qemu-system-i386 floppy.img` is our favorite means of 'booting' floppies, but 'Virtual Box' and 'bochs' are other alternatives (and they are all free).
+
+
 Steps:
 
 First ran the floppy image in a MS-DOS Virtual Machine on Parallels. Also tried with Qemu for practice once running Kali linux.
