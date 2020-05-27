@@ -11,7 +11,7 @@ We'll be impressed if you solve this without writing code. The hints on 'All You
 
 Steps:
 
-Python code to convert the input and output. Same code as [All You Base Are Belong to Us](https://github.com/adstannard/ACI-CTF-CyberStake2020/blob/master/Miscellaneous/All_Your_Base_Are_Belong_to_Us.md)
+[Python code to convert](https://github.com/adstannard/ACI-CTF-CyberStake2020/blob/master/Miscellaneous/starter_code-3.py) the input and output. Same code as [All You Base Are Belong to Us](https://github.com/adstannard/ACI-CTF-CyberStake2020/blob/master/Miscellaneous/All_Your_Base_Are_Belong_to_Us.md)
 
 Notes:
 
